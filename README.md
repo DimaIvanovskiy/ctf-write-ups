@@ -1,1 +1,1 @@
-# ctf-write-ups
+# CTF competitions write-ups
