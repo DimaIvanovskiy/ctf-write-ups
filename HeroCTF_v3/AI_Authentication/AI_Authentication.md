@@ -19,7 +19,7 @@ Well. Lets take a look at the website. It uses face-recognition for authenticati
 Also it has "About team" page which contains photos of their team.
 
 I just copied image of CEO from this page and showed it to by webcamera from my phone...
-
+![CEOs face image](https://github.com/DimaIvanovskiy/ctf-write-ups/blob/main/HeroCTF_v3/AI_Authentication/face.jpg)
 
 
 > Hero{H3yyyy_Th4t5_pr3tTy_gO0d}
