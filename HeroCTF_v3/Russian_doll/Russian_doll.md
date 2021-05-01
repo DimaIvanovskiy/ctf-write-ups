@@ -1,0 +1,23 @@
+# __HeroCTF_v3__ 
+## _PwnQL #1_
+
+## Information
+
+**Category:** | **Points:** | **Writeup Author**
+--- | --- | ---
+Misc | 50 | Enarior/xanhacks
+
+**Description:** 
+
+> Go deeper 
+>
+>File : 
+
+
+## Solution
+If we unzip this file we can notice that everey directory has its own subdirectory and its look like this directory-raw is infinite and we cant just get the root file by clicking.
+
+So lets just use simple command "ls -R". It will show us all subdirectories. Than we should echo ...../flag.txt and get the flag.
+
+
+> Hero{if_yOu_gOt_HEre_By_clIcKInG_mANnUaLly_YoU_sHOuLd_REalLy_SeE_SoMeOne}
