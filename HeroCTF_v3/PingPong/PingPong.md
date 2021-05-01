@@ -10,7 +10,8 @@ Prog | 45 | xanhacks
 **Description:** 
 
 > Could you get the flag?
-File: https://github.com/DimaIvanovskiy/ctf-write-ups/blob/main/HeroCTF_v3/PingPong/output.txt
+> 
+>File: https://github.com/DimaIvanovskiy/ctf-write-ups/blob/main/HeroCTF_v3/PingPong/output.txt
 
 ## Solution
 Lets take a look at the file first. It consists only from PING and PONG words. It looks like binary file where PING represents 1 and PONG represents 2.
