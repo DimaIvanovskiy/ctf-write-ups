@@ -22,6 +22,7 @@ Here we can see that LIKE functions is used for password comparison. That means 
 Using this data we get our flag
 
 username : admin
+
 password : %
 
 
