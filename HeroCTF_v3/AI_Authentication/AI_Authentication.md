@@ -1,29 +1,25 @@
 # __HeroCTF_v3__ 
-## _PwnQL #1_
+## _AI Authentication_
 
 ## Information
 
 **Category:** | **Points:** | **Writeup Author**
 --- | --- | ---
-Web | 50 | xanhacks
+AI | 45 | iHuggsy
 
 **Description:** 
 
-> Login as admin to get the flag.
-URL : http://chall1.heroctf.fr:8080
+> Oh my, I hate this company ! They don't stop bragging about how their new authentication system is unbreakable. They claim password have no future.
+>
+>I'm sure you can prove them wrong. Authenticate as their CEO.
 
 ## Solution
-We should look at the source code of the web page with the devtools. Here we can find comment right in the code. <!-- Hello dev, do not forget to remove login.php.bak before committing your code. -->
+Well. Lets take a look at the website. It uses face-recognition for authentication. 
 
-Lets dowload and take a look at this file. http://chall1.heroctf.fr:8080/login.php.bak
-Here it is: https://github.com/DimaIvanovskiy/ctf-write-ups/blob/main/HeroCTF_v3/PwnQl1/login.php.bak
+Also it has "About team" page which contains photos of their team.
 
-Here we can see that LIKE functions is used for password comparison. That means that we can just use % as a password, whitch matches any string.
-Using this data we get our flag
-
-username : admin
-
-password : %
+I just copied image of CEO from this page and showed it to by webcamera from my phone...
 
 
-> Hero{pwnQL_b4sic_0ne_129835}
+
+> Hero{H3yyyy_Th4t5_pr3tTy_gO0d}
