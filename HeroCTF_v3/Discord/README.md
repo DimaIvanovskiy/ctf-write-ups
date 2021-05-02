@@ -5,7 +5,7 @@
 
 **Category:** | **Points:** | **Writeup Author**
 --- | --- | ---
-Web | 1 | xanhacks
+Misc | 1 | xanhacks
 
 **Description:** 
 
