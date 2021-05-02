@@ -5,7 +5,7 @@
 
 **Category:** | **Points:** | **Writeup Author**
 --- | --- | ---
-Misc | 1 | xanhacks
+Misc | 1 | soska_nerealka
 
 **Description:** 
 
