@@ -5,7 +5,7 @@
 
 **Category:** | **Points:** | **Writeup Author**
 --- | --- | ---
-Web | 50 | xanhacks
+Web | 50 | soska_nerealka
 
 **Description:** 
 
