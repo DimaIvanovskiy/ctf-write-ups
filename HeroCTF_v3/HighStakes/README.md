@@ -5,7 +5,7 @@
 
 **Category:** | **Points:** | **Writeup Author**
 --- | --- | ---
-Pwn | 50 | iHuggsy
+Pwn | 50 | soska_nerealka
 
 **Description:** 
 
