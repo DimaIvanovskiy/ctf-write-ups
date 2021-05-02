@@ -23,7 +23,7 @@ I found realy good page about all variants of  ssrf:
 
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Server%20Side%20Request%20Forgery/README.md
 
-I tried different variants but not all of them wokrs because url shpuld be shorter than some length.
+I tried different variants but not all of them works because url shpuld be shorter than some length.
 
 The only working url is http://0:3000/flag
 
