@@ -5,7 +5,7 @@
 
 **Category:** | **Points:** | **Writeup Author**
 --- | --- | ---
-AI | 45 | iHuggsy
+AI | 45 | soska_nerealka
 
 **Description:** 
 
