@@ -5,7 +5,7 @@
 
 **Category:** | **Points:** | **Writeup Author**
 --- | --- | ---
-OSINT | 10 | xanhacks
+OSINT | 10 | soska_nerealka
 
 **Description:** 
 
