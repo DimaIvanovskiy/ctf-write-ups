@@ -5,7 +5,7 @@
 
 **Category:** | **Points:** | **Writeup Author**
 --- | --- | ---
-Reverse | 40 | SoEasY
+Reverse | 40 | soska_nerealka
 
 **Description:** 
 
