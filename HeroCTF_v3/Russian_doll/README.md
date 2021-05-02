@@ -5,7 +5,7 @@
 
 **Category:** | **Points:** | **Writeup Author**
 --- | --- | ---
-Misc | 50 | Enarior/xanhacks
+Misc | 50 | soska_nerealka
 
 **Description:** 
 
