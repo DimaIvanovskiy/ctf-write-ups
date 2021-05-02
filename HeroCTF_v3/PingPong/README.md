@@ -5,7 +5,7 @@
 
 **Category:** | **Points:** | **Writeup Author**
 --- | --- | ---
-Prog | 45 | xanhacks
+Prog | 45 | soska_nerealka
 
 **Description:** 
 
