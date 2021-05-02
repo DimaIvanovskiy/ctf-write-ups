@@ -76,7 +76,7 @@ IsGood must be 0 to print the flag. And we can see here:
 # EasyAssembly.c:22:            isGood = 0;
         movl    $0, isGood(%rip)        #, isGood
 ```
-that isGood will be equal to 0 if modified == 1337404. So we find out modified.
+that isGood will be equal to 0 if modified == 1337404. So we found out modified.
 
 Lets find input. 
 ```
