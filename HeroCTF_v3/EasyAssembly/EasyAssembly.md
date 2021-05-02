@@ -11,7 +11,7 @@ Reverse | 40 | SoEasY
 
 > Don't worry, this one is quite easy :) Could be a good introduction to assembly !
 >
-> File: 
+> File: https://github.com/DimaIvanovskiy/ctf-write-ups/blob/main/HeroCTF_v3/EasyAssembly/EasyAssembly.asm
 
 ## Solution
 Lets take a look at the main function:
