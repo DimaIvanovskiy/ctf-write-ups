@@ -5,7 +5,7 @@
 
 **Category:** | **Points:** | **Writeup Author**
 --- | --- | ---
-CRYPTO | 136  | soska_nerealka
+CRYPTO | 353  | soska_nerealka
 
 **Description:** 
 
