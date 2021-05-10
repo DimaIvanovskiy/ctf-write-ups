@@ -78,6 +78,6 @@ def find_password(hash, symbols):
 
 find_password(int(PASSWD), [])
 ```
-
+The first password that this code finds is "Q#55914'"*#5*+0')"
 
 > sdctf{st1ll_3553nt14lly_pl@1n_txt}
