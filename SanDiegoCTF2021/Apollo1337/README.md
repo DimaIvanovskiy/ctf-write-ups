@@ -1,5 +1,5 @@
-# __HeroCTF_v3__ 
-## _San Diego CTF 2021_
+# __San Diego CTF 2021__ 
+##_Apolo 1337_
 
 ## Information
 
