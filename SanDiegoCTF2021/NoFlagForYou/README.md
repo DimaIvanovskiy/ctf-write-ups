@@ -5,7 +5,7 @@
 
 **Category:** | **Points:** | **Writeup Author**
 --- | --- | ---
-WEB | 453 | soska_nerealka
+MISC | 453 | soska_nerealka
 
 **Description:** 
 
