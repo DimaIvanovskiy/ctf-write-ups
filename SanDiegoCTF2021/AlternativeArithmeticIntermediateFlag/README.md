@@ -35,6 +35,7 @@ Why? Well Long.MIN_VALUE = -2^(63) and Long.MAX_VALUE is 2^(63) - 1. So wen you 
 Find 2 different `long` variables `x` and `y`, differing by at most 10, such that `Long.hashCode(x) == Long.hashCode(y)`
 ```
 For this question we should look how long hash function works in java
+
 ![Javas long hash function](https://github.com/DimaIvanovskiy/ctf-write-ups/blob/main/SanDiegoCTF2021/AlternativeArithmeticIntermediateFlag/hash.jpg)
 
 As we can see it is just xor of first half of the long number and the second one.
