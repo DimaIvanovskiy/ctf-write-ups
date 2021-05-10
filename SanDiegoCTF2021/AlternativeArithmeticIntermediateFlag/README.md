@@ -43,11 +43,16 @@ So lets take 0 and -1.
 
 0 is 0000...0000 and its hash is 0. Nothing interesting.
 But -1 is 111...111111...111. So its hash is 
+
+0 is 0000...0000 and its hash is 0. Nothing interesting.
+
+But -1 is 111...111111...111. So its hash is 
+
 111...111111...111
+
 xor 
+
 000...000111...111
-(cast to int or just taking last half) =
-000...000
 
 Also 0
 
