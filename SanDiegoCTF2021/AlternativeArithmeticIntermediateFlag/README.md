@@ -54,6 +54,10 @@ xor
 
 000...000111...111
 
+(cast to int or just taking last half) =
+
+000...000
+
 Also 0
 
 The naswer is 0 and -1.
