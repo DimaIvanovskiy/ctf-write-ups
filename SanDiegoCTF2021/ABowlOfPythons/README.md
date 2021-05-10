@@ -11,7 +11,7 @@ REVENGE | 136  | soska_nerealka
 
 > A bowl of spaghetti is nice. What about a bowl of pythons?
 >
->chal.py: https://space.sdc.tf/
+>chal.py: https://github.com/DimaIvanovskiy/ctf-write-ups/blob/main/SanDiegoCTF2021/ABowlOfPythons/chal.py
 
 ## Solution
 
