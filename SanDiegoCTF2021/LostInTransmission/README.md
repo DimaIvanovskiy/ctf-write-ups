@@ -17,7 +17,7 @@ CRYPTO | 353  | soska_nerealka
 
 Lets take a look at this flag using some online HEX EDITOR like https://hexed.it/
 
-We know that in this contest every flag start with "sdctf", we should use this information and find out what transformation we should make with each hex number.
+We know that in this contest every flag starts with "sdctf", we should use this information and find out what transformation we should make with each hex number.
 
 First symbol hex value is E6 or 230 in decimal system. And 's' symbol is 115. Second symbol hex value is C8 or 200 and 'd' symbol is 100.
 
